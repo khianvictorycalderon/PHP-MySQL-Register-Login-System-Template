@@ -7,3 +7,5 @@ This projects demonstrates the basic use of CRUD in MySQL.
 - Straight forward usage
 - Easy to implement and understand
 - Modular codes
+
+Watch the video [here](https://khiandemoproject.netlify.app/videos/rls_php_mysql.mp4).
